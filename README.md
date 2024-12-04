@@ -2,7 +2,7 @@
 
 1. Tải dataset từ [Kaggle](https://www.kaggle.com/datasets/jayeshrohansingh/emotion-detection-dataset?resource=download)
 2. Giải nén file `archive.zip` vừa tải về và xoá các nhãn ảnh không cần thiết, chỉ giữ lại 4 nhãn: Happy, Angry, Sad, Neutral
-3. Đưa folder đã `fer2013` vào folder `dataset`
+3. Đưa folder `fer2013` đã giải nén vào folder `dataset`
 4. Nén folder `dataset` thành file `dataset.zip`
 5. Tải file `dataset.zip` lên Google Drive
 6. Truy cập [Google Colab](https://colab.research.google.com/) với tài khoản Google có drive chứa file dataset ở trên
